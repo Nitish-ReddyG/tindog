@@ -129,6 +129,36 @@ body {
 .pricing-cards{
   padding-top:25px;
 }
+.price-button{
+  width: 100%;
+}
+
+/* Call to Action */
+#cta{
+  font-size: 2rem;
+  text-align: center;
+  background-color: #ff4c68;
+
+  padding: 8% 10%;
+  color: #fff;
+}
+.cta-header{
+  font-family: "Montserrat-Bold";
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+/* Footer */
+#footer{
+  text-align: center;
+  font-size: 1rem;
+  padding: 8% 15%;
+  line-height: 1.5rem;
+  background-color: #fff;
+}
+.social-buttons{
+  padding: 0% 2% 5%;
+}
 
 
 /* Media Queries */
